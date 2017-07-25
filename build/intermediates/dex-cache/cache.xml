@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moziki\AndroidStudioProjects\CampusPaths\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="269726330fbe22e6a50396cb4258253cbee09683">
+        <dex dex="C:\Users\Moziki\AndroidStudioProjects\CampusPaths\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_92d4eea6661ea16f68bfb567db2453445f1f98e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moziki\.android\build-cache\574de9a19995539dfb5b1e12c25b527830ee7816\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Moziki\AndroidStudioProjects\CampusPaths\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d705651e919aed46ba6bb67bdbfc74aa6b1edbc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moziki\.android\build-cache\058487e50a429c88b24f1688cc86b6eac4a8a4f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Moziki\AndroidStudioProjects\CampusPaths\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7b41169b71a99ee7637f05870beda09ff0fadbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moziki\.android\build-cache\cd97073728e6e43c2fc3217e09a446947da84cd5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Moziki\AndroidStudioProjects\CampusPaths\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8635acc3eb85897951e45147ec0a30b57174aa7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moziki\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Moziki\AndroidStudioProjects\CampusPaths\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_93f3614c99719bdbbbdae3e19bde7c1422f75ca5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moziki\.android\build-cache\2eca3d4d65098dd0f2cc92ab8e78c77b9b43b6da\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Moziki\AndroidStudioProjects\CampusPaths\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33adc876072d37e77d524bdad41d775b9cf007f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moziki\.android\build-cache\d5c33ff581a777490bece0fcfcb53f8531becf33\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Moziki\AndroidStudioProjects\CampusPaths\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3882ee549a6f82af21e6305c79807a33be45f5f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moziki\.android\build-cache\28c69f3cb0c70ba0dd218969359cfc9088871b13\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Moziki\AndroidStudioProjects\CampusPaths\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_89df73b29ec621bcb960ec876cbeb4dfe0328d4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moziki\.android\build-cache\75ee068d1805ccc5919b7a1e403d94a3b366ffa1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Moziki\AndroidStudioProjects\CampusPaths\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af8d353364dc5b716004e22be98c315728c63626\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moziki\AndroidStudioProjects\CampusPaths\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Moziki\AndroidStudioProjects\CampusPaths\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_32293758c6a0d830db0ea5b8e3d06894355d8567\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moziki\.android\build-cache\8ddd5a7dc0dc08e98da14e222b8f7295d9e428b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Moziki\AndroidStudioProjects\CampusPaths\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bcb87cc0f8746bcece2caea3da668c0e08fb4d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Moziki\.android\build-cache\782173e29289735ed5f89102f64cf7ca4ee42c69\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Moziki\AndroidStudioProjects\CampusPaths\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_207bcb4414b75ac53f2cc6dd0e9bba94b68a013e\classes.dex" />
+    </item>
+
+</items>
