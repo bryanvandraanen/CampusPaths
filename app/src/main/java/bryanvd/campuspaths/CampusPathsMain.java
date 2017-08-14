@@ -119,10 +119,8 @@ public class CampusPathsMain extends AppCompatActivity {
                     } else {
                         imageView.setSingleLandmark(model.getLandmarkData(dest));
                     }
-                    imageView.invalidate();
                 } else if (start != null && dest != null) {
                     imageView.updatePathTraverser(model.findShortestPath(start, dest));
-                    imageView.invalidate();
                 } else {
                     Toast.makeText(getApplicationContext(), "No start or destination selected!", Toast.LENGTH_LONG).show();
                 }
@@ -140,7 +138,6 @@ public class CampusPathsMain extends AppCompatActivity {
                 startBox.collapseGroup(0);
                 destBox.collapseGroup(0);
                 imageView.resetPathTraverser();
-                imageView.invalidate();
             }
         });
     }

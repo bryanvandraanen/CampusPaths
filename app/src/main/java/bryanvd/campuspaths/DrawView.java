@@ -71,6 +71,7 @@ public class DrawView extends AppCompatImageView {
      * scale and drawing the path between two buildings if one exists.
      * @param canvas Canvas to paint campus path alterations to
      */
+    @Override
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
         if (traverser != null) {
@@ -131,6 +132,7 @@ public class DrawView extends AppCompatImageView {
     public void setSingleLandmark(Landmark mark) {
         singleLandmark = mark;
         traverser = null;
+        this.invalidate();
     }
 
     /**
@@ -142,6 +144,7 @@ public class DrawView extends AppCompatImageView {
         if (path != null) {
             traverser = new PathTraverser<Landmark>(path);
             singleLandmark = null;
+            this.invalidate();
         }
     }
 
@@ -151,5 +154,6 @@ public class DrawView extends AppCompatImageView {
     public void resetPathTraverser() {
         traverser = null;
         singleLandmark = null;
+        this.invalidate();
     }
 }
